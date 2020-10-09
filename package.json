@@ -1,5 +1,5 @@
 {
-  "name": "@kaneoh/config-prettier",
+  "name": "@kaneoh/prettier-config",
   "version": "0.0.1",
   "description": "Prettier config for the Rolo project",
   "main": "src/index.js",
