@@ -5,13 +5,13 @@ Prettier config for the teams working on Rolo.
 ## Install
 
 ```bash
-npm i -D @kaneoh/prettier-config
+npm i -D @rolo-chat/prettier-config
 ```
 
 Add it in `package.json`
 
 ```json
 {
-  "prettier": "@kaneoh/prettier-config"
+  "prettier": "@rolo-chat/prettier-config"
 }
 ```
