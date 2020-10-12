@@ -1,28 +1,27 @@
 {
-  "name": "@kaneoh/prettier-config",
+  "name": "@rolo-chat/prettier-config",
   "version": "0.0.1",
   "description": "Prettier config for the Rolo project",
   "main": "src/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaneoh/prettier-config.git"
+    "url": "git+https://github.com/rolo-chat/prettier-config.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "prettier",
     "config",
-    "rolo",
-    "kaneoh"
+    "rolo"
   ],
   "author": "Rolo Innovation Inc.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/kaneoh/prettier-config/issues"
+    "url": "https://github.com/rolo-chat/prettier-config/issues"
   },
-  "homepage": "https://github.com/kaneoh/prettier-config#readme",
+  "homepage": "https://github.com/rolo-chat/prettier-config#readme",
   "dependencies": {
     "prettier": "^2.1.2"
   }
